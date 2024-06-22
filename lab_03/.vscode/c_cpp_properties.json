@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+				"/opt/homebrew/Cellar/glm/1.0.1/include/glm",
+				"/opt/homebrew/opt/qt6/include"
+            ],
+            "defines": [],
+            "macFrameworkPath": [
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/System/Library/Frameworks"
+            ],
+            "cStandard": "c17",
+            "intelliSenseMode": "macos-clang-arm64",
+            "compilerPath": "/usr/bin/g++"
+        }
+    ],
+    "version": 4
+}
